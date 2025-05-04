@@ -1,0 +1,23 @@
+.container {
+    max-width: 1200px;
+}
+
+.card {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+.btn-group {
+    gap: 0.5rem;
+}
+
+.pagination-btn {
+    min-width: 40px;
+}
+
+.form-select {
+    width: auto;
+}
